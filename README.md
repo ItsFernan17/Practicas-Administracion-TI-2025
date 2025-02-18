@@ -1,4 +1,4 @@
-# Practicas Aministración de TI UMG - Practica No. 1 Test Unitarios
+# Practicas Administración de TI UMG - Practica No. 1 Test Unitarios
 
 <img src="./src/img/Umg.png" alt="Logo de la UMG" width="200" />
 
