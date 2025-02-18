@@ -1,15 +1,10 @@
 # Practica - Test Unitarios
 
-<div style="display: inline-block; vertical-align: top;">
-  <img src="./src/img/Umg.png" alt="Logo de la UMG" width="100" />
-</div>
+<img src="./src/img/Umg.png" alt="Logo de la UMG" width="100" />
 
-<div style="display: inline-block; vertical-align: top; margin-left: 10px;">
-  <strong>Universidad Mariano Gálvez de Guatemala</strong><br>
-  <strong>Campus Huehuetenango</strong><br>
-  <strong>Administración en TI 2025</strong>
-</div>
-
+**Universidad Mariano Gálvez de Guatemala**  
+**Campus Huehuetenango**  
+**Administración en TI 2025**
 
 Este proyecto es una práctica de test unitarios en Java utilizando JUnit 5. La aplicación permite gestionar usuarios mediante operaciones como crear, obtener y actualizar usuarios.
 
