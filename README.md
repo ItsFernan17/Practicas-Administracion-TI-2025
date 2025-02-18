@@ -1,6 +1,6 @@
-# Practica - Test Unitarios
+# Practicas Aministración de TI UMG - Practica No. 1 Test Unitarios
 
-<img src="./src/img/Umg.png" alt="Logo de la UMG" width="100" />
+<img src="./src/img/Umg.png" alt="Logo de la UMG" width="200" />
 
 **Universidad Mariano Gálvez de Guatemala**  
 **Campus Huehuetenango**  
