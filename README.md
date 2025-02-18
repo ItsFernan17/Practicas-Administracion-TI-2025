@@ -43,5 +43,5 @@ Este proyecto es una práctica de test unitarios en Java utilizando JUnit 5. La 
 
 1. Clona el repositorio utilizando el siguiente comando:
    ```bash
-   git clone <https://github.com/ItsFernan17/Test-Unitarios-TI-2025>
+   git clone <[https://github.com/ItsFernan17/Test-Unitarios-TI-2025](https://github.com/ItsFernan17/Practicas-Administracion-TI-2025)>
    cd proyecto-test-unitarios
