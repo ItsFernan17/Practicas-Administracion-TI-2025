@@ -1,6 +1,6 @@
-# Practica - Test Unitarios
+# Practicas Administración de TI UMG - Practica No. 1 Test Unitarios
 
-![Logo de la UMG](./src/img/Umg.png)
+<img src="./src/img/Umg.png" alt="Logo de la UMG" width="200" />
 
 **Universidad Mariano Gálvez de Guatemala**  
 **Campus Huehuetenango**  
@@ -42,6 +42,7 @@ Este proyecto es una práctica de test unitarios en Java utilizando JUnit 5. La 
 ## ¿Cómo Clonar el Repositorio?
 
 1. Clona el repositorio utilizando el siguiente comando:
+
    ```bash
-   git clone <https://github.com/ItsFernan17/Test-Unitarios-TI-2025>
+   git clone https://github.com/ItsFernan17/Practicas-Administracion-TI-2025.git
    cd proyecto-test-unitarios
